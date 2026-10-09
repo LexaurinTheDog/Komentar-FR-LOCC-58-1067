@@ -1,6 +1,6 @@
 # Commentaire de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel
 
-> **À propos du commentaire :** le présent commentaire porte sur l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel, examinée article par article — **80 articles** dans leur rédaction consolidée en vigueur, y compris les articles insérés ultérieurement et dotés d'un numéro composé (art. 23-1 à 23-12, 26-1, 41-1, 45-1 à 45-6). Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel, examinée article par article — **81 articles** : les 80 articles en vigueur dans leur rédaction consolidée, y compris les articles insérés ultérieurement et dotés d'un numéro composé (art. 23-1 à 23-12, 26-1, 41-1, 45-1 à 45-6), ainsi qu'un article abrogé, reproduit pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -22,7 +22,7 @@ Le commentaire est réparti en trois chapitres :
 2. Titre II, chapitres II bis à V — Question prioritaire de constitutionnalité, examen des textes de forme législative, conditions de présentation des projets de loi, fins de non-recevoir, élection présidentielle (art. 23-1 à 31) ;
 3. Titre II, chapitres VI à VIII, et titre III — Contentieux des élections parlementaires, référendum d'initiative partagée, référendum, circonstances exceptionnelles, dispositions diverses et transitoires (art. 32 à 61).
 
-La version consolidée de la source ne comporte pas d'article 23-6 ; le commentaire ne reconstitue pas de contenu pour ce numéro.
+L'article 23-6, abrogé à compter du 24 juillet 2010 par la loi organique n° 2010-830 du 22 juillet 2010, est reproduit tel que la source le présente (date et texte d'abrogation), afin que la numérotation soit complète ; le commentaire ne reconstitue pas son contenu.
 
 ## Méthode
 

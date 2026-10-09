@@ -114,6 +114,14 @@ Le quatrième alinéa règle le sursis à statuer. Lorsque le Conseil constituti
 
 La NOTA de la source mentionne la suspension des délais de cet article jusqu'au 30 juin 2020 par la loi organique n° 2020-365 du 30 mars 2020, mesure temporaire désormais sans effet.
 
+### Article 23-6
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2010-07-24 par LOI organique n° 2010-830 du 22 juillet 2010 - art. 12)
+
+L'article 23-6 se situait dans la section 2 du chapitre consacré à la question prioritaire de constitutionnalité, relative aux dispositions applicables devant le Conseil d'Etat et la Cour de cassation, entre l'article 23-5 (moyen soulevé directement devant ces juridictions) et l'article 23-7 (décision motivée de saisir le Conseil constitutionnel). Selon la source, il est abrogé à compter du 24 juillet 2010 par l'article 12 de la loi organique n° 2010-830 du 22 juillet 2010. Son texte n'est pas reproduit et le commentaire ne le reconstitue pas ; il est mentionné pour que la numérotation des articles 23-1 à 23-12 soit complète.
+
 ### Article 23-7
 
 **Texte de la disposition:**
