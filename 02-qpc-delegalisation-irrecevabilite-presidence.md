@@ -136,7 +136,7 @@ Le premier alinéa distingue deux hypothèses. Lorsque le Conseil d'État ou la 
 
 La troisième phrase du premier alinéa contient une règle essentielle : si la juridiction suprême ne s'est pas prononcée dans les délais de trois mois prévus aux articles 23-4 et 23-5, la question est transmise au Conseil constitutionnel. Le silence vaut donc renvoi. Ce mécanisme empêche qu'une question soit neutralisée par l'inertie du juge de filtrage.
 
-Le second alinéa organise la communication de la décision à la juridiction qui a transmis la question et sa notification aux parties dans les huit jours de son prononcé. Cette information conditionne la reprise de l'instance au fond, suspendue en principe par l'article 23-3. Il convient de noter que la source consolidée ne comporte pas d'article 23-6 : la numérotation passe directement de l'article 23-5 à l'article 23-7.
+Le second alinéa organise la communication de la décision à la juridiction qui a transmis la question et sa notification aux parties dans les huit jours de son prononcé. Cette information conditionne la reprise de l'instance au fond, suspendue en principe par l'article 23-3. Il convient de noter que l'article 23-6, qui le précède dans la numérotation, est abrogé depuis le 24 juillet 2010 (voir son commentaire).
 
 #### Section 3 — Dispositions applicables devant le Conseil constitutionnel
 
